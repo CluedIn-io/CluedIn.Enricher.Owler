@@ -1,1 +1,1 @@
-# CluedIn.Encricher.Owler
+# CluedIn.Enricher.Owler
